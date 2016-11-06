@@ -1,0 +1,27 @@
+{
+  "name": "react-flux-es5",
+  "version": "1.0.0",
+  "description": "Learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkratk/reactTestApp.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "kishore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkratk/reactTestApp/issues"
+  },
+  "homepage": "https://github.com/nkratk/reactTestApp#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-open": "^2.0.0"
+  }
+}
